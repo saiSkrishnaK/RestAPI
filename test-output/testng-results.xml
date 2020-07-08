@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2820" started-at="2020-07-08T13:13:49 IST" finished-at="2020-07-08T13:13:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2820" started-at="2020-07-08T13:13:49 IST" finished-at="2020-07-08T13:13:52 IST">
+      <class name="com.wipro.DeleteRequestTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.DeleteRequestTest@7f13d6e]" name="setup" is-config="true" duration-ms="358" started-at="2020-07-08T13:13:49 IST" finished-at="2020-07-08T13:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteRequest()[pri:0, instance:com.wipro.DeleteRequestTest@7f13d6e]" name="deleteRequest" duration-ms="2423" started-at="2020-07-08T13:13:50 IST" finished-at="2020-07-08T13:13:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- com.wipro.DeleteRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

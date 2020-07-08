@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="4213" started-at="2020-07-08T13:14:58 IST" finished-at="2020-07-08T13:15:03 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4213" started-at="2020-07-08T13:14:58 IST" finished-at="2020-07-08T13:15:03 IST">
+      <class name="com.wipro.PostRequestTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.PostRequestTest@2f686d1f]" name="setup" is-config="true" duration-ms="1" started-at="2020-07-08T13:15:02 IST" finished-at="2020-07-08T13:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:com.wipro.PostRequestTest@2f686d1f]" name="postRequest" duration-ms="637" started-at="2020-07-08T13:15:02 IST" finished-at="2020-07-08T13:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+      </class> <!-- com.wipro.PostRequestTest -->
+      <class name="com.wipro.DeleteRequestTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.DeleteRequestTest@59ec2012]" name="setup" is-config="true" duration-ms="307" started-at="2020-07-08T13:14:58 IST" finished-at="2020-07-08T13:14:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteRequest()[pri:0, instance:com.wipro.DeleteRequestTest@59ec2012]" name="deleteRequest" duration-ms="2388" started-at="2020-07-08T13:14:59 IST" finished-at="2020-07-08T13:15:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- com.wipro.DeleteRequestTest -->
+      <class name="com.wipro.GetRequestTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.GetRequestTest@4cf777e8]" name="setup" is-config="true" duration-ms="0" started-at="2020-07-08T13:15:01 IST" finished-at="2020-07-08T13:15:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getRequest()[pri:0, instance:com.wipro.GetRequestTest@4cf777e8]" name="getRequest" duration-ms="411" started-at="2020-07-08T13:15:01 IST" finished-at="2020-07-08T13:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+      </class> <!-- com.wipro.GetRequestTest -->
+      <class name="com.wipro.PutRequestTest">
+        <test-method status="PASS" signature="putRequest()[pri:0, instance:com.wipro.PutRequestTest@3fee9989]" name="putRequest" duration-ms="426" started-at="2020-07-08T13:15:02 IST" finished-at="2020-07-08T13:15:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.PutRequestTest@3fee9989]" name="setup" is-config="true" duration-ms="0" started-at="2020-07-08T13:15:02 IST" finished-at="2020-07-08T13:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.wipro.PutRequestTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
